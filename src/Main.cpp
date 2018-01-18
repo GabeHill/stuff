@@ -48,7 +48,7 @@ int unsumR(int n, int s) {
 
 }
 
-int main() {
+int maidden() {
 
 	std::cout << std::to_string(unsum(60)) << std::endl;
 	std::cout << std::to_string(sum(65535)) << std::endl;
